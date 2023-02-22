@@ -23,7 +23,7 @@ import util.Resource;
  */
 public class ResultScreen {
     private BufferedImage popup, backButton;
-    private int popupY, score, money, countScore;
+    private int popupY, score, money;
     private Font toppic, scoreFont, moneyFont;
     
     private Sky2 sky;

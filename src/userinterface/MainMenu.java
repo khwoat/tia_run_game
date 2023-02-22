@@ -5,9 +5,7 @@
  */
 package userinterface;
 
-import java.awt.Font;
 import java.awt.Graphics;
-import java.awt.Rectangle;
 import java.awt.image.BufferedImage;
 import screen_game.Sky3;
 import util.Resource;
@@ -24,12 +22,9 @@ public class MainMenu{
                 charButtonX, charButtonY,
                 exitButtonX, exitButtonY;
     
-    private Rectangle rect;
-    private Font play, character;
     public Sky3 sky;
     
     public MainMenu(){
-        rect = new Rectangle();
         sky = new Sky3();
         mountain = Resource.getResource("data/gamebackground/mountain.png");
         logo = Resource.getResource("data/gamebackground/logo.png");

@@ -5,7 +5,6 @@
  */
 package screen_game.gameobject;
 
-import screen_game.gameobject.PlayObject;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 import java.awt.image.BufferedImage;

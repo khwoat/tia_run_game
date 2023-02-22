@@ -9,7 +9,6 @@ import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 import static userinterface.GameMeneger.frame;
 import static userinterface.GameMeneger.sound;
-import userinterface.Sound;
 import util.Resource;
 
 /**

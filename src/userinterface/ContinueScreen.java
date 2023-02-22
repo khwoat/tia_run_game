@@ -7,7 +7,6 @@ package userinterface;
 
 import java.awt.Font;
 import java.awt.Graphics;
-import java.awt.Rectangle;
 import java.awt.image.BufferedImage;
 import screen_game.MainCharacter;
 import screen_game.gameobject.Heart;
@@ -28,14 +27,11 @@ public class ContinueScreen {
     private int heartY = 675;
     private float speedY = -5f;
     
-    private Rectangle rect;
-    private Font replay, mainMenu, showMoney;
     private MainCharacter character;
     private Font heartFont;
     
     public ContinueScreen(MainCharacter character){
         this.character = character;
-        rect = new Rectangle();
         
         bgImage = Resource.getResource("data/gamebackground/continue.png");
         shower = Resource.getResource("data/gamebackground/water.png");

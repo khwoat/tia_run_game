@@ -19,7 +19,6 @@ import util.Resource;
  */
 public class Land {
     private BufferedImage imgLand1, imgLand2, imgLand3, imgLand4;
-    private int speedX;
     
     private List<ListImage> listImage;
     private Random random;

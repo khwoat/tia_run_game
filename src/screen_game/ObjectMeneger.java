@@ -8,8 +8,6 @@ package screen_game;
 import screen_game.gameobject.Trash;
 import screen_game.gameobject.PlayObject;
 import java.awt.Graphics;
-import java.awt.Rectangle;
-import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -22,12 +20,8 @@ import static userinterface.GameMeneger.sound;
  * @author ADMINS
  */
 public class ObjectMeneger {
-    private BufferedImage image;
-    private Boolean isPassed = true;
-    private int heartIndex = 0;
     
     protected List<PlayObject> object;
-    private Rectangle rect;
     private PlayObject trash, stone, heartObj;
     private Random random;
     private MainCharacter character;

@@ -7,7 +7,6 @@ package userinterface;
 
 import java.awt.Font;
 import java.awt.Graphics;
-import java.awt.Rectangle;
 import java.awt.image.BufferedImage;
 import screen_game.MainCharacter;
 import screen_game.Money;
@@ -24,7 +23,6 @@ public class CharacterScreen {
     private int posX = 680;
     private int posY = 67;
     
-    private Rectangle rect;
     private MainCharacter character;
     private Sky3 sky;
     private Font moneyFont;
@@ -32,7 +30,6 @@ public class CharacterScreen {
     public CharacterScreen(MainCharacter character, Sky3 sky){
         this.sky = sky;
         this.character = character;
-        rect = new Rectangle();
         menu = Resource.getResource("data/gamebackground/character_select.png");
         mountain = Resource.getResource("data/gamebackground/mountain.png");
         mountain = Resource.getResource("data/gamebackground/mountain.png");

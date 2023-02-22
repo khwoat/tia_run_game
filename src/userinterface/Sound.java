@@ -6,7 +6,7 @@ import javax.sound.sampled.Clip;
 
 public class Sound {
     
-    private Clip menuSound, playSound, resSound, jumpUpSound, jumpDoSound,
+    private Clip menuSound, playSound, resSound, jumpUpSound,
                  wrongSound, buySound, overSound, getHeartSound, clickButSound, selectSound, countSound, cutSound, bakoSound;
     public boolean playMusic1, playMusic2;
     

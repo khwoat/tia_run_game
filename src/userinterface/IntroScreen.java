@@ -24,7 +24,7 @@ public class IntroScreen {
     private float alpha;
     
     
-    public static DRAW_STATE drawState = DRAW_STATE.HIDE;
+    public DRAW_STATE drawState = DRAW_STATE.HIDE;
     public enum DRAW_STATE{
         HIDE,
         SHOW
