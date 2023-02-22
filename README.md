@@ -5,6 +5,18 @@ The Tia Run game was created by students in the Object Oriented Programming cour
 The game is stop to develop completely.
 
 ## Avaiable on
-![Tia Run on itch io](https://khwoat.itch.io/tia-run) for **FREE**
+[Tia Run on itch io](https://khwoat.itch.io/tia-run) for **FREE**
 
 ## Screenshot
+- ### Main menu
+![main menu](https://github.com/khwoat/tia_run_game/blob/main/screenshot/ss_main.jpg)
+
+- ### Game play
+![main menu](https://github.com/khwoat/tia_run_game/blob/main/screenshot/ss_gameplay1.jpg)
+![main menu](https://github.com/khwoat/tia_run_game/blob/main/screenshot/ss_gameplay2.jpg)
+
+- ### Score board
+![main menu](https://github.com/khwoat/tia_run_game/blob/main/screenshot/ss_scoreboard.jpg)
+
+- ### Select and buy character
+![main menu](https://github.com/khwoat/tia_run_game/blob/main/screenshot/ss_character.jpg)
