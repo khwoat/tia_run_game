@@ -11,7 +11,7 @@ The game is stop to develop completely.
 - ### Main menu
 ![main menu](https://github.com/khwoat/tia_run_game/blob/main/screenshot/ss_main.jpg)
 
-- ### Game play
+- ### Gameplay
 ![main menu](https://github.com/khwoat/tia_run_game/blob/main/screenshot/ss_gameplay1.jpg)
 ![main menu](https://github.com/khwoat/tia_run_game/blob/main/screenshot/ss_gameplay2.jpg)
 
