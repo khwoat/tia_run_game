@@ -5,4 +5,6 @@ The Tia Run game was created by students in the Object Oriented Programming cour
 The game is stop to develop completely.
 
 ## Avaiable on
-https://khwoat.itch.io/tia-run for **FREE**
+![Tia Run on itch io](https://khwoat.itch.io/tia-run) for **FREE**
+
+## Screenshot
